@@ -1,0 +1,23 @@
+# Big Data outputs
+output/
+
+# Raw Yelp dataset
+yelp_dataset/
+
+# Parquet files
+*.parquet
+
+# JSON outputs
+clean_reviews_json/
+clean_business_json/
+
+# Spark metadata
+*.crc
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
